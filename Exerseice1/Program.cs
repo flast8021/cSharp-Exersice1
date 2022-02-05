@@ -1,15 +1,4 @@
 ﻿using System;
-/*
-         * Build a simple calculator. 
-         * Read in two integers from the user 
-         * and add them together. 
-         * subtract
-         * multiply
-         * division(display quotient and remainder separately)
-         * Print the results in a nice output statement.
-         * 
-         * 
-         * */
 namespace exersice1
 {
     //------------------------------------------------------------
