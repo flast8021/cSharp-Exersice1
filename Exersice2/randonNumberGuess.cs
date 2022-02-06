@@ -15,26 +15,29 @@ namespace exersice2
     {
         public void randomNumberGame()
         {
-            Console.WriteLine("Exersice#2\tQuestion#3\nRandom Number Guess.");
+           Console.WriteLine("Exersice#2\tQuestion#3\nRandom Number Guess.");
+            //importing Random
             Random randomGenerator = new Random();
             int randomNumber = randomGenerator.Next(1, 11);
 
+            //printing and getting user input.
             Console.WriteLine("Guess a number b/w 1 and 10:");
             int userInput = int.Parse(Console.ReadLine());
-            
-                if (userInput == randomNumber)
-                {
-                    Console.WriteLine($"You'r guess is correct.\nRandom number was {randomNumber}");
-                }
-                else if (userInput > randomNumber)
-                {
-                    Console.WriteLine($"You'r guess was too high.\nRandom number was {randomNumber}");
-                }
-                else if (userInput < randomNumber)
-                {
-                    Console.WriteLine($"You'r guess was too low.\nRandom number was {randomNumber}");
-                }
+
+            //conditions to match user input with randomly generated number.
+            if (userInput == randomNumber)
+            {
+                Console.WriteLine($"You'r guess is correct.\nRandom number was {randomNumber}");
+            }
+            else if (userInput > randomNumber)
+            {
+                Console.WriteLine($"You'r guess was too high.\nRandom number was {randomNumber}");
+            }
+            else if (userInput < randomNumber)
+            {
+                Console.WriteLine($"You'r guess was too low.\nRandom number was {randomNumber}");
+            }
             Console.WriteLine("------------------End----------------------");
-        }
+        }//End of Method.
     }
 }
