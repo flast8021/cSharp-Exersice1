@@ -1,0 +1,16 @@
+G:\Dorset\year2\cSharp\Smster2\exersice2\bin\Debug\net5.0\exersice2.exe
+G:\Dorset\year2\cSharp\Smster2\exersice2\bin\Debug\net5.0\exersice2.deps.json
+G:\Dorset\year2\cSharp\Smster2\exersice2\bin\Debug\net5.0\exersice2.runtimeconfig.json
+G:\Dorset\year2\cSharp\Smster2\exersice2\bin\Debug\net5.0\exersice2.runtimeconfig.dev.json
+G:\Dorset\year2\cSharp\Smster2\exersice2\bin\Debug\net5.0\exersice2.dll
+G:\Dorset\year2\cSharp\Smster2\exersice2\bin\Debug\net5.0\ref\exersice2.dll
+G:\Dorset\year2\cSharp\Smster2\exersice2\bin\Debug\net5.0\exersice2.pdb
+G:\Dorset\year2\cSharp\Smster2\exersice2\obj\Debug\net5.0\exersice2.csproj.AssemblyReference.cache
+G:\Dorset\year2\cSharp\Smster2\exersice2\obj\Debug\net5.0\exersice2.GeneratedMSBuildEditorConfig.editorconfig
+G:\Dorset\year2\cSharp\Smster2\exersice2\obj\Debug\net5.0\exersice2.AssemblyInfoInputs.cache
+G:\Dorset\year2\cSharp\Smster2\exersice2\obj\Debug\net5.0\exersice2.AssemblyInfo.cs
+G:\Dorset\year2\cSharp\Smster2\exersice2\obj\Debug\net5.0\exersice2.csproj.CoreCompileInputs.cache
+G:\Dorset\year2\cSharp\Smster2\exersice2\obj\Debug\net5.0\exersice2.dll
+G:\Dorset\year2\cSharp\Smster2\exersice2\obj\Debug\net5.0\ref\exersice2.dll
+G:\Dorset\year2\cSharp\Smster2\exersice2\obj\Debug\net5.0\exersice2.pdb
+G:\Dorset\year2\cSharp\Smster2\exersice2\obj\Debug\net5.0\exersice2.genruntimeconfig.cache
