@@ -1,0 +1,16 @@
+G:\Dorset\year2\cSharp\Smster2\exersiceWeek4\exersice4\bin\Debug\net5.0\exersice4.exe
+G:\Dorset\year2\cSharp\Smster2\exersiceWeek4\exersice4\bin\Debug\net5.0\exersice4.deps.json
+G:\Dorset\year2\cSharp\Smster2\exersiceWeek4\exersice4\bin\Debug\net5.0\exersice4.runtimeconfig.json
+G:\Dorset\year2\cSharp\Smster2\exersiceWeek4\exersice4\bin\Debug\net5.0\exersice4.runtimeconfig.dev.json
+G:\Dorset\year2\cSharp\Smster2\exersiceWeek4\exersice4\bin\Debug\net5.0\exersice4.dll
+G:\Dorset\year2\cSharp\Smster2\exersiceWeek4\exersice4\bin\Debug\net5.0\ref\exersice4.dll
+G:\Dorset\year2\cSharp\Smster2\exersiceWeek4\exersice4\bin\Debug\net5.0\exersice4.pdb
+G:\Dorset\year2\cSharp\Smster2\exersiceWeek4\exersice4\obj\Debug\net5.0\exersice4.csproj.AssemblyReference.cache
+G:\Dorset\year2\cSharp\Smster2\exersiceWeek4\exersice4\obj\Debug\net5.0\exersice4.GeneratedMSBuildEditorConfig.editorconfig
+G:\Dorset\year2\cSharp\Smster2\exersiceWeek4\exersice4\obj\Debug\net5.0\exersice4.AssemblyInfoInputs.cache
+G:\Dorset\year2\cSharp\Smster2\exersiceWeek4\exersice4\obj\Debug\net5.0\exersice4.AssemblyInfo.cs
+G:\Dorset\year2\cSharp\Smster2\exersiceWeek4\exersice4\obj\Debug\net5.0\exersice4.csproj.CoreCompileInputs.cache
+G:\Dorset\year2\cSharp\Smster2\exersiceWeek4\exersice4\obj\Debug\net5.0\exersice4.dll
+G:\Dorset\year2\cSharp\Smster2\exersiceWeek4\exersice4\obj\Debug\net5.0\ref\exersice4.dll
+G:\Dorset\year2\cSharp\Smster2\exersiceWeek4\exersice4\obj\Debug\net5.0\exersice4.pdb
+G:\Dorset\year2\cSharp\Smster2\exersiceWeek4\exersice4\obj\Debug\net5.0\exersice4.genruntimeconfig.cache
